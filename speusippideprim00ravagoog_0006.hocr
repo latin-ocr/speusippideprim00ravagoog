@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./speusippideprim00ravagoog_0006.png"; bbox 0 0 3050 4760; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 17 1201 1058 1472">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 17 1201 1058 1472">
+     <span class='ocr_line' id='line_1_1' title="bbox 17 1201 1058 1472; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 17 1201 77 1348; x_wconf 67' lang='lat'><strong><em>⁶</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 363 1299 1058 1472; x_wconf 80' lang='lat' dir='ltr'>SPEUSIPPI·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 450 1691 1039 1811">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 450 1691 1039 1811">
+     <span class='ocr_line' id='line_1_2' title="bbox 450 1691 1039 1811; baseline -0.002 -39"><span class='ocrx_word' id='word_1_3' title='bbox 450 1803 453 1806; x_wconf 69' lang='lat'>.</span> <span class='ocrx_word' id='word_1_4' title='bbox 509 1691 584 1772; x_wconf 82' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 613 1691 801 1770; x_wconf 76' lang='lat' dir='ltr'>PR1M1s</span> <span class='ocrx_word' id='word_1_6' title='bbox 1036 1803 1039 1811; x_wconf 22' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1 1985 1099 2127">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1 1985 1099 2127">
+     <span class='ocr_line' id='line_1_3' title="bbox 1 1985 1099 2127; baseline 0.003 -9"><span class='ocrx_word' id='word_1_7' title='bbox 1 2031 2 2038; x_wconf 13' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_8' title='bbox 209 1988 543 2123; x_wconf 85' lang='lat' dir='ltr'>RERUM</span> <span class='ocrx_word' id='word_1_9' title='bbox 597 1985 1099 2127; x_wconf 89' lang='lat' dir='ltr'>PRINCIPIIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1530 4760">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1530 4760">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1530 4760; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1530 4760; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
